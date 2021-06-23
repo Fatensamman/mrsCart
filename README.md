@@ -1,2 +1,2 @@
 # mrsCart
-it a store application
+it's a store application
