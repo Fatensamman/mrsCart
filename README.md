@@ -1,2 +1,3 @@
-# mrsCart
-it's a store application
+# MrsCart
+
+it a store application.
