@@ -1,16 +1,16 @@
-# MrsCart
+## MrsCart
 
 it a store application
 
-### Author: Faten Samman
+## Author: Faten Samman
 
-### Version: 1.0.0
+## Version: 1.0.0
 
-### Deployed Site
+## Deployed Site
 
-### Documentation
+## Documentation
 ![uml](./imgs/uml.PNG)
-### Setup
+## Setup
 
 1. Clone the repository
 2. run this line of code `npm i` to install all dependencies
