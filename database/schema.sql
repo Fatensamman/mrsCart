@@ -1,4 +1,5 @@
 USE 'heroku_ca738264f38a57a';
+USE store;
 
 CREATE TABLE product (
     product_id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
@@ -6,7 +7,7 @@ CREATE TABLE product (
     description LONGTEXT NOT NULL,
     price VARCHAR(255),
     quantity  VARCHAR(255),
-    image LONGBLOB NOT NULL
+    image LONGTEXT NOT NULL
 );
 
 CREATE TABLE cart(
