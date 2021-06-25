@@ -1,5 +1,5 @@
 USE 'heroku_ca738264f38a57a';
-USE store;
+-- USE store;
 
 CREATE TABLE product (
     product_id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
