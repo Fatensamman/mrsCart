@@ -1,4 +1,4 @@
-USE heroku_ca738264f38a57a;
+USE 'heroku_ca738264f38a57a';
 
 CREATE TABLE product (
     product_id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
