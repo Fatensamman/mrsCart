@@ -6,8 +6,6 @@ it a store application
 
 ## Version: 1.0.0
 
-## Deployed Site
-
 ## Documentation
 ![uml](./imgs/uml.PNG)
 ## Setup
